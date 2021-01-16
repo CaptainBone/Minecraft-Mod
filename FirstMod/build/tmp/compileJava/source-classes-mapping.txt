@@ -1,0 +1,6 @@
+com/captainbone/firstmod/registry/Moditems.java
+ com.captainbone.firstmod.registry.Moditems
+com/captainbone/firstmod/FirstMod.java
+ com.captainbone.firstmod.FirstMod
+com/captainbone/firstmod/registry/ModBlocks.java
+ com.captainbone.firstmod.registry.ModBlocks

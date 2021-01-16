@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "fm:block/ruby_block" }
+  }
+}
